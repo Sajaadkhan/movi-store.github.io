@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e7720ab7.css",
+    "main.js": "/static/js/main.d5ec9d0d.js",
+    "static/media/img2.jpg": "/static/media/img2.49f6bdbd3f7755f6128d.jpg",
+    "static/media/img.jpg": "/static/media/img.fa4a6085e8b1940d036c.jpg",
+    "static/media/movieStore_Logo.png": "/static/media/movieStore_Logo.a91d4172ce52d675b2ba.png",
+    "index.html": "/index.html",
+    "main.e7720ab7.css.map": "/static/css/main.e7720ab7.css.map",
+    "main.d5ec9d0d.js.map": "/static/js/main.d5ec9d0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7720ab7.css",
+    "static/js/main.d5ec9d0d.js"
+  ]
+}
